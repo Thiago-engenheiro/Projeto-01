@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu primeiro projeto de portfólio.
 
-![image](https://raw.githubusercontent.com/Thiago-engenheiro/Fotos/main/Front-end-Meu%20primeiro%20projeto%20html%20e%20css.png)
+![image](https://raw.githubusercontent.com/Thiago-engenheiro/Arquivos-Pessoais/main/Fotos/Template%20de%20capa%20repositorio%20para%20github.png)
 
 ## ✔️ Ferramentas utilizadas:
 
